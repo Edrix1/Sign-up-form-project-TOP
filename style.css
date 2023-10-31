@@ -17,7 +17,7 @@
 }
 
 .left {
-    width: 23vw;
+    width: 45vw;
     background-image: url(lofigirl.jpg);
     background-position: center;
     background-size: cover;
@@ -36,8 +36,8 @@
 .momo{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     padding-top: 10px;
-    
 }
+
 img{
     width: 80px;
     height: 60px;
